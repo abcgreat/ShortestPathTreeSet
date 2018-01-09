@@ -1,0 +1,6 @@
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\bin\Debug\ShortestPathTreeSet.exe.config
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\bin\Debug\ShortestPathTreeSet.exe
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\bin\Debug\ShortestPathTreeSet.pdb
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\obj\Debug\ShortestPathTreeSet.csprojResolveAssemblyReference.cache
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\obj\Debug\ShortestPathTreeSet.exe
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\ShortestPathTreeSet\obj\Debug\ShortestPathTreeSet.pdb
